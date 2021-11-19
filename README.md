@@ -1,3 +1,6 @@
 # miniprojetos
- 
-<a href="https://jamesleme.github.io/miniprojetos/login-screen/" target="_blank">Login Screen v1.0</a>
+
+<p style="text-align: center;">Login Screen</p>
+
+## Versionamento
+[Versão 1.0](#https://jamesleme.github.io/miniprojetos/login-screen/)
