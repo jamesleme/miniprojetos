@@ -142,12 +142,27 @@ div#ssu {
     body {
         background: #FFF;
     }
-    
+
     #box {
-        position: static;
-        transform: none;
-        height: 100%;
-        margin: auto;
         box-shadow: none;
     }
+
+    button#login:hover {
+        box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.3);
+        transform: none;
+    }
+
+    button#login:focus {
+        transform: none;
+    }
+
+    button#register:hover {
+        box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.3);
+        transform: none;
+    }
+
+    button#register:focus {
+        transform: none;
+    }
+
 }
