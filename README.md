@@ -17,5 +17,5 @@ Sinta-se livre para olhar, baixar e aprender. Me acompanhe no [Twitter](https://
  </div>
 
 ### Inventário
-- [Login Screen v1](https://jamesleme.github.io/miniprojetos/login-screen)
+- [Login Screen v1](https://jamesleme.github.io/miniprojetos/login-screen-v1)
  
