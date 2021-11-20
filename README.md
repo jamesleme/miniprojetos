@@ -18,4 +18,6 @@ Sinta-se livre para olhar, baixar e aprender. Me acompanhe no [Twitter](https://
 
 ### Inventário
 - [Login Screen v1](https://jamesleme.github.io/miniprojetos/login-screen-v1)
+- [LOS v1](https://jamesleme.github.io/miniprojetos/los-v1)
+- [LOS v2](https://jamesleme.github.io/miniprojetos/los-v2/index/)
  
