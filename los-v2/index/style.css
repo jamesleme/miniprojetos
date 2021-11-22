@@ -70,14 +70,7 @@ nav > ul li a:hover {
     margin-top: 10px;
     width: 100%;
     height: 400px;
-    background-color: #e2e2e2;
-}
-
-#banner img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: 0 10%;
+    background: #e2e2e2 url('../images/rainbow-six-osa.webp') center / cover fixed;
 }
 
 main {
