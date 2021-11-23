@@ -146,3 +146,14 @@ div#ssu {
     height: 50px;
     background-color: rgba(0, 0, 0, 0.15);
 }
+
+@media only screen and (min-width: 280px) and (max-width: 1000px) {
+    body {
+        background: #212121;
+    }
+
+    .box {
+        background: transparent;
+        box-shadow: none;
+    }
+}
